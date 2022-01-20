@@ -20,7 +20,7 @@ cargo build --release
 
 ### Update to $PATH
 `
-sudo mv target/release/plspee /usr/local/bin/plspee
+sudo mv target/release/plspee /usr/local/bin/plspee &&
 sudo chmod +x /usr/local/bin/plspee
 `
 
